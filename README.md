@@ -4,7 +4,7 @@
 
 Setiap orang memiliki tipe kepribadian dan perilaku yang berbeda untuk melakukan pembelian yang tentunya dipengaruhi oleh berbagai banyak hal. Perusahaan perlu melakukan analisis terperinci tentang pelanggan yang sekiranya ideal bagi perusahaan agar menaikkan performa dan menyasar customers yang tepat agar dapat bertransaksi di platform perusahaan. Dengan memanfaatkan data historical marketing campaign dapat dilakukan penggalian insight data dengan membuat sebuah model prediksi kluster sehingga memudahkan perusahaan dalam membuat keputusan.
 
-## Conversion Rate Analysis Based
+## Conversion Rate Analysis
 Berdasarkan hasil EDA, berikut didapatkan beberapa karakteristik Customer yang memiliki conversion rate yang tinggi :
 
 - Terlihat  bahwa  mayoritas customer berstatus marital 'yang mengikat', namun  secara CR justru 'hubungan yang tidak  mengikat yang lebih  tinggi’
